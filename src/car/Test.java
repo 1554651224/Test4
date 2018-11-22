@@ -46,9 +46,7 @@ public class Test {
 		Car[] cars = icd.queryBybrand("±£Ê±½Ý");
 		printCars(cars);
 		
-		System.out.println("=============queryByBrand=============");	
-		Car[] cars2 = icd.queryByType("X3");
-		printCars(cars2);
+		
 		
 	}	
 	
